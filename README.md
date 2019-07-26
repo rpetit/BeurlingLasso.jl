@@ -6,4 +6,3 @@ Numerical solvers for the Beurling LASSO
 ## Available algorithms
 * Sliding Frank-Wolfe
 * Lasserre hierarchies
-<br/><br/>
