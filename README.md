@@ -9,7 +9,7 @@ Numerical solvers for the Beurling LASSO
 
 ## Disclaimer
 
-This package is under active development. Tests and documentation yet
+This package is under active development. Tests and documentation still
 have to be written.
 <br/>
 
@@ -19,7 +19,7 @@ have to be written.
 algorithm and its application to super-resolution microscopy, Inverse Problems,
 2019 <br/>
 
-[2] Y. De Castro, F. Gamboa, D. Henrion, J.-B. Lasserre, exact solutions to super-resolution on semi-algebraic domains in higher dimensions, IEEE Transactions on Information Theory, 2017 <br/><br/>
+[2] Y. De Castro, F. Gamboa, D. Henrion, J.-B. Lasserre, exact solutions to super-resolution on semi-algebraic domains in higher dimensions, IEEE Transactions on Information Theory, 2017 <br/>
 
 See also these repositories :
 
