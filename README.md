@@ -24,4 +24,5 @@ algorithm and its application to super-resolution microscopy, Inverse Problems,
 See also these repositories :
 
 * [qdenoyelle/sfw4blasso](https://github.com/qdenoyelle/sfw4blasso)
+* [nboyd/SparseInverseProblems.jl](https://github.com/)
 * [JuliaOpt/SumOfSquares.jl](https://github.com/JuliaOpt/SumOfSquares.jl)
