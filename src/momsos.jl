@@ -46,7 +46,7 @@ function momsos!(blasso::BLASSO{T, FT, DT},
     νminus = moment_matrix(cminus)
     μminus = extractatoms(νminus, ϵ)
 
-    # this will raise an error if extraction failed
+    # this will raise an error if extraction fails
     # (i.e. μplus or μminus is of type Nothing)
     atoms = μplus.atoms
     append!(atoms, [WeightedDiracMeasure(atom.center, -atom.weight)
