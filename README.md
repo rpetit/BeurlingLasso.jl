@@ -6,7 +6,6 @@ Numerical solvers for the Beurling LASSO
 ## Available algorithms
 * Sliding Frank-Wolfe
 * Lasserre hierarchies
-<br/>
 
 ## Disclaimer
 
@@ -22,7 +21,7 @@ algorithm and its application to super-resolution microscopy, Inverse Problems,
 
 [2] Y. De Castro, F. Gamboa, D. Henrion, J.-B. Lasserre, exact solutions to super-resolution on semi-algebraic domains in higher dimensions, IEEE Transactions on Information Theory, 2017 <br/><br/>
 
-See also these repositories : <br/>
+See also these repositories :
 
 * [qdenoyelle/sfw4blasso](https://github.com/qdenoyelle/sfw4blasso)
 * [JuliaOpt/SumOfSquares.jl](https://github.com/JuliaOpt/SumOfSquares.jl)
