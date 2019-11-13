@@ -4,7 +4,7 @@ makedocs(
     modules = [BeurlingLasso],
     format = Documenter.HTML(; prettyurls = get(ENV, "CI", nothing) == "true"),
     authors = "Romain Petit",
-    sitename = "BeurlingLasso.jl",
+    sitename = "BeurlingLasso",
     pages = Any["index.md"]
     # strict = true,
     # clean = true,
