@@ -1,0 +1,15 @@
+name = "BeurlingLasso"
+uuid = "6c7f9e1b-f7f9-4bfa-836f-947007a571e7"
+authors = ["Romain Petit <romain.petit@inria.fr>"]
+version = "0.1.0"
+
+[deps]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
+
+[compat]
+julia = "^1"
