@@ -25,6 +25,3 @@ Manifest.toml
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints
-
-# Tests (to be implemented)
-test/
