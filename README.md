@@ -1,5 +1,10 @@
 # BeurlingLasso.jl
 
+[![Build Status](https://travis-ci.com/rpetit/BeurlingLasso.jl.svg?branch=master)](https://travis-ci.com/rpetit/BeurlingLasso.jl)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/rpetit/BeurlingLasso.jl?svg=true)](https://ci.appveyor.com/project/rpetit/BeurlingLasso-jl)
+[![Codecov](https://codecov.io/gh/rpetit/BeurlingLasso.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/rpetit/BeurlingLasso.jl)
+[![Coveralls](https://coveralls.io/repos/github/rpetit/BeurlingLasso.jl/badge.svg?branch=master)](https://coveralls.io/github/rpetit/BeurlingLasso.jl?branch=master)
+
 Numerical solvers for the Beurling LASSO
 <br/>
 
